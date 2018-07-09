@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">ReceitasApp</string>
+    <string name="botao_ver_receita">VER RECEITA</string>
+
+    <string name="receita_bolo_titulo">Receita de Bolo</string>
+    <string name="receita_bolo_descricao">Receita de bolo para aniversário e casamento</string>
+    <string name="receita_bolo_conteudo">
+        - 2 xícaras (chá) de açúcar
+        \n- 3 xícaras (chá) de farinha de trigo
+        \n- 4 colheres (sopa) de margarina
+        \n- 3 ovos
+        \n- 1 e 1/2 xícara (chá) de leite
+        \n- 1 colher (sopa) bem cheia de fermento em pó
+        \n
+        \n1. Bata as claras em neve e reserve.
+        \n2. Misture as gemas, a margarina e o açúcar até obter uma massa homogênea.
+        \n3. Acrescente o leite e a farinha de trigo aos poucos, sem parar de bater.
+        \n4. Por último, adicione as claras em neve e o fermento.
+        \n5. Despeje a massa em uma forma grande de furo central untada e enfarinhada.
+        \n6. Asse em forno médio 180 °C, preaquecido, por aproximadamente 40 minutos ou ao furar o bolo com um garfo, este saia limpo.
+    </string>
+
+    <string name="receita_torta_titulo">Receita de Torta</string>
+    <string name="receita_torta_descricao">Receita de torta doce</string>
+    <string name="receita_torta_conteudo">
+        - 2 xícaras de farinha de trigo
+        \n- 2 xícaras de açúcar
+        \n- 1 colher de sopa de fermento em pó
+        \n- 1 colher de sopa de canela em pó
+        \n- 1 pitada de sal
+        \n- 3 ovos
+        \n- 3 maçãs grandes
+        \n- 1 xícara de óleo vegetal
+        \n
+        \n1. Unte e polvilhe com farinha um tabuleiro médio (23×35), ou uma fôrma de buraco no meio.
+        \n2. Em uma tigela grande, peneirar a farinha e o açúcar.
+        \n3. Juntar os demais ingredientes secos.
+        \n4. Reservar.
+        \n5. Descascar as maçãs, reservando as cascas.
+        \n6. Picar em cubinhos.
+        \n7. Bater no liquidificador os ovos, o óleo e as cascas da maçã.
+        \n8. Juntar essa mistura na tigela com os ingredientes secos e misturar delicadamente.
+        \n9. Junte as maçãs picadas, misture e despeje na assadeira.
+        \n10. Asse por cerca de 40 a 50 minutos em forno médio.
+        \n11. Depois de pronto polvilhar açúcar e canela.
+    </string>
+
+    <string name="receita_cookie_titulo">Receita de Cookie</string>
+    <string name="receita_cookie_descricao">Receita de cookie de chocolate recheado</string>
+    <string name="receita_cookie_conteudo">
+        - 125 g de manteiga sem sal em temperatura ambiente
+        \n- 3/4 xícara de açúcar
+        \n- 1/2 xícara de açúcar mascavo
+        \n- 1 ovo
+        \n- 1 3/4 xícara de farinha de trigo
+        \n- 1 colher (chá) de fermento em pó
+        \n- 300 g de chocolate meio amargo picado
+        \n- 1 colher (chá) de essência de baunilha
+        \n- Para fazer cookie de chocolate acrescentar 1/4 xícara de chocolate em pó
+        \n
+        \n1. Misturar a manteiga, açúcar mascavo, açúcar, essência de baunilha e chocolate em pó.
+        \n2. Adicionar o ovo batido aos poucos e misturar bem.
+        \n3. Adicionar a farinha aos poucos e ir misturando bem.
+        \n4. Pode ser na mão ou na batedeira planetária.
+        \n5. Por último adicionar o fermento e misturar só para incorporá-lo à massa.
+        \n6. Depois da massa bem misturada, adicionar o chocolate picado.
+        \n7. Formar bolinhas pequenas e assar em forno pré-aquecido, sobre papel manteiga por aproximadamente 15 a 20 minutos no forno à 250°.
+        \n8. As bolinhas podem ser pequenas pois os cookies se espalham no forno.
+        \n8. O tempo de forno depende e tem que cuidar para não queimar embaixo.
+    </string>
+
+    <string name="receita_sorvete_titulo">Receita de Sorvete</string>
+    <string name="receita_sorvete_descricao">Receita de sorvete de creme com chocolate</string>
+    <string name="receita_sorvete_conteudo">
+        - 1 lata de leite condensado
+        \n- 3 latas de leite (medida do leite condensado)
+        \n- 4 gemas
+        \n- 4 claras em neve
+        \n- 1 lata de creme de leite sem soro
+        \n- 100 g de chocolate em pó
+        \n- 4 colheres (sopa) de chocolate em pó
+        \n- 5 colheres (sopa) de açúcar refinado
+        \n
+        \nPARA CALDA
+        \n- 1 copo de água
+        \n- 1 1/2 copos de chocolate em pó
+        \n
+        \n1. Coloque em uma panela o leite condensado, 2 latas de leite e as gemas
+        \n2. Leve ao fogo até coalhar
+        \n3. Separadamente ferva o chocolate em pó com o restante do leite
+        \n4. Na batedeira bata as claras e o açúcar
+        \n5. Acrescente o creme de leite
+        \n6. Coloque metade das claras batidas em uma forma para pudim
+        \n7. Coloque por cima o chocolate picado
+        \n8. Cubra com o restante das claras
+        \n9. Coloque no congelador por pelo menos 10 h
+        \n10. Para desenformar, esquente um pouco o fundo da forma e vire em um prato
+        \n11. Leve ao fogo o chocolate com a água até engrossar
+        \n12. Coloque por cima do sorvete no prato
+    </string>
+</resources>
