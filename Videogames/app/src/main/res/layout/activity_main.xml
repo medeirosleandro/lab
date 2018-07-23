@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvSony"
+        android:background="@color/sony_categoria"
+        android:text="@string/sony_categoria"
+        style="@style/Categoria_style"/>
+
+
+    <TextView
+        android:id="@+id/tvMicrosoft"
+        android:background="@color/microsoft_categoria"
+        android:text="@string/microsoft_categoria"
+        style="@style/Categoria_style"/>
+
+    <TextView
+        android:id="@+id/tvNintendo"
+        android:background="@color/nintendo_categoria"
+        android:text="@string/nintendo_categoria"
+        style="@style/Categoria_style"/>
+
+    <TextView
+        android:id="@+id/tvSilvio"
+        android:background="@color/silvio_categoria"
+        android:text="@string/silvio_categoria"
+        style="@style/Categoria_style"/>
+
+</LinearLayout>

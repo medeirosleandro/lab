@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Categoria SONY-->
+    <color name="sony_categoria">#ffe603</color>
+
+    <!--Categoria NINTENDO-->
+
+    <color name="nintendo_categoria">#11e96b</color>
+
+    <!--Categoria MICROSOFT-->
+
+    <color name="microsoft_categoria">#575bf7</color>
+
+    <!--Silvio-->
+
+    <color name="silvio_categoria">#ea4141</color>
+
+</resources>

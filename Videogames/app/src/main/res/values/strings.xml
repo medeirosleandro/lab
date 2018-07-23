@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Videogames</string>
+    <string name="microsoft_categoria">MICROSOFT</string>
+    <string name="nintendo_categoria">NINTENDO</string>
+    <string name="sony_categoria">SONY</string>
+    <string name="silvio_categoria">SILVIO</string>
+
+    <!-- LISTAS DE GAMES Exclusivos-->
+
+    <string-array name="microsoft_games">
+        <item>Jogo 1</item>
+        <item>Jogo 2</item>
+        <item>Jogo 3</item>
+        <item>Jogo 4</item>
+        <item>Jogo 5</item>
+        <item>Jogo 1</item>
+        <item>Jogo 2</item>
+        <item>Jogo 3</item>
+        <item>Jogo 4</item>
+        <item>Jogo 5</item>
+    </string-array>
+
+
+    <string-array name="nintendo_games">
+        <item>Jogo 1</item>
+        <item>Jogo 2</item>
+        <item>Jogo 3</item>
+        <item>Jogo 4</item>
+        <item>Jogo 5</item>
+        <item>Jogo 1</item>
+        <item>Jogo 2</item>
+        <item>Jogo 3</item>
+        <item>Jogo 4</item>
+        <item>Jogo 5</item>
+        <item>Jogo 1</item>
+        <item>Jogo 2</item>
+        <item>Jogo 3</item>
+        <item>Jogo 4</item>
+        <item>Jogo 5</item>
+        <item>Jogo 3</item>
+        <item>Jogo 4</item>
+        <item>Jogo 5</item>
+    </string-array>
+
+    <string-array name="sony_games">
+        <item>Jogo 1</item>
+        <item>Jogo 2</item>
+
+    </string-array>
+
+    <string-array name="silvio_games">
+        <item>Jogo 1</item>
+        <item>Jogo 2</item>
+
+        <item>Jogo 4</item>
+        <item>Jogo 5</item>
+    </string-array>
+
+</resources>
