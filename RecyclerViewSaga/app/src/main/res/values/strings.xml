@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewSaga</string>
+    <string name="botao_acessar_post">ACESSAR POST</string>
+</resources>
